@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="500" viewBox="0 0 1280 500" role="img" aria-label="Toolkit: Figma and Adobe XD for design; React, Next.js, TypeScript and Tailwind for frontend; Redux Toolkit and TanStack Query for data; Firebase, MongoDB and PostgreSQL for backend; Git, Vercel and Netlify to ship.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8F4FD"/><stop offset="1" stop-color="#EADDFB"/></linearGradient></defs>
+<style>text{font-family:Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif}</style>
+<rect width="1280" height="500" rx="44" fill="url(#g)"/>
+<text x="48" y="59" font-size="25" font-weight="800" fill="#5B2A9E">Design</text>
+<rect x="250" y="28" width="94" height="46" rx="23" fill="#5B2A9E"/><text x="297" y="59" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">Figma</text>
+<rect x="356" y="28" width="127" height="46" rx="23" fill="#5B2A9E"/><text x="419" y="59" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">Adobe XD</text>
+<rect x="495" y="28" width="148" height="46" rx="23" fill="#5B2A9E"/><text x="569" y="59" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">Wireframes</text>
+<rect x="655" y="28" width="148" height="46" rx="23" fill="#5B2A9E"/><text x="729" y="59" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">User flows</text>
+<rect x="815" y="28" width="148" height="46" rx="23" fill="#5B2A9E"/><text x="890" y="59" text-anchor="middle" font-size="19" font-weight="600" fill="#fff">Prototypes</text>
+<line x1="48" y1="85" x2="1232" y2="85" stroke="#D8C6F1" stroke-width="1.5"/>
+<text x="48" y="127" font-size="25" font-weight="800" fill="#5B2A9E">Frontend</text>
+<rect x="250" y="96" width="127" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="313" y="127" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">React.js</text>
+<rect x="389" y="96" width="116" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="447" y="127" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Next.js</text>
+<rect x="516" y="96" width="148" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="591" y="127" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">TypeScript</text>
+<rect x="677" y="96" width="202" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="778" y="127" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">JavaScript ES6+</text>
+<rect x="891" y="96" width="170" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="976" y="127" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Tailwind CSS</text>
+<rect x="250" y="154" width="159" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="330" y="185" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Material UI</text>
+<rect x="421" y="154" width="137" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="490" y="185" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Shadcn UI</text>
+<rect x="571" y="154" width="137" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="639" y="185" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Bootstrap</text>
+<rect x="720" y="154" width="181" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="810" y="185" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Framer Motion</text>
+<rect x="913" y="154" width="94" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="960" y="185" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">HTML5</text>
+<rect x="1019" y="154" width="83" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="1061" y="185" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">CSS3</text>
+<line x1="48" y1="211" x2="1232" y2="211" stroke="#D8C6F1" stroke-width="1.5"/>
+<text x="48" y="253" font-size="25" font-weight="800" fill="#5B2A9E">Data</text>
+<rect x="250" y="222" width="181" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="340" y="253" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Redux Toolkit</text>
+<rect x="443" y="222" width="192" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="539" y="253" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">TanStack Query</text>
+<rect x="646" y="222" width="202" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="748" y="253" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">React Hook Form</text>
+<rect x="861" y="222" width="137" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="930" y="253" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">REST APIs</text>
+<rect x="1010" y="222" width="94" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="1057" y="253" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Axios</text>
+<line x1="48" y1="279" x2="1232" y2="279" stroke="#D8C6F1" stroke-width="1.5"/>
+<text x="48" y="321" font-size="25" font-weight="800" fill="#5B2A9E">Backend</text>
+<rect x="250" y="290" width="127" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="313" y="321" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Firebase</text>
+<rect x="389" y="290" width="116" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="447" y="321" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">MongoDB</text>
+<rect x="516" y="290" width="148" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="591" y="321" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">PostgreSQL</text>
+<line x1="48" y1="347" x2="1232" y2="347" stroke="#D8C6F1" stroke-width="1.5"/>
+<text x="48" y="389" font-size="25" font-weight="800" fill="#5B2A9E">Ship</text>
+<rect x="250" y="358" width="72" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="286" y="389" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Git</text>
+<rect x="334" y="358" width="105" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="387" y="389" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">GitHub</text>
+<rect x="451" y="358" width="116" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="509" y="389" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Postman</text>
+<rect x="579" y="358" width="105" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="632" y="389" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Vercel</text>
+<rect x="696" y="358" width="116" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="754" y="389" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Netlify</text>
+<line x1="48" y1="415" x2="1232" y2="415" stroke="#D8C6F1" stroke-width="1.5"/>
+<text x="48" y="457" font-size="25" font-weight="800" fill="#5B2A9E">Craft</text>
+<rect x="250" y="426" width="72" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="286" y="457" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">SEO</text>
+<rect x="334" y="426" width="159" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="414" y="457" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Performance</text>
+<rect x="506" y="426" width="224" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="618" y="457" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Responsive design</text>
+<rect x="742" y="426" width="246" height="46" rx="23" fill="#fff" stroke="#CDBBE6" stroke-width="1.5"/><text x="865" y="457" text-anchor="middle" font-size="19" font-weight="600" fill="#14151F">Reusable components</text>
+</svg>
