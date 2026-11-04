@@ -1,63 +1,84 @@
  <div align="center">
 
-# AMIT VERMA
+# <span style="color:#ff4b26">AV(R)</span> &nbsp; AMIT VERMA
 
-**Frontend Developer · React.js · Next.js · TypeScript**
+**DESIGNER × DEVELOPER**
 
-Building thoughtful digital experiences through design and engineering.
+# I DESIGN THE EXPERIENCE.
+# I ENGINEER THE INTERFACE.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:amverma1204t@gmail.com) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+UI/UX Design &nbsp; / &nbsp; Frontend Engineering
+
+KOTA, INDIA &nbsp; · &nbsp; OPEN TO CONNECTIONS
+
+[LINKEDIN](YOUR_LINKEDIN_URL) &nbsp; / &nbsp; [EMAIL](mailto:amverma1204t@gmail.com) &nbsp; / &nbsp; [PORTFOLIO](YOUR_PORTFOLIO_URL)
 
 </div>
 
 ---
 
-### `01` — About
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Frontend Developer with **5+ years of experience** in UI/UX and web development. I turn designs into scalable, responsive applications with a strong focus on usability, performance and clean architecture.
+**01 / DESIGN**
 
-### `02` — Tech Stack
+Visual thinking. User experience. Interface systems.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,firebase,mongodb,postgres,figma,git,github" />
+Figma · Adobe XD · Design Systems · Prototyping · Interaction Design
+
+</td>
+<td width="50%" valign="top">
+
+**02 / ENGINEERING**
+
+Turning designs into production-ready products.
+
+React · Next.js · TypeScript · Tailwind · REST APIs · Firebase
+
+</td>
+</tr>
+</table>
+
+---
+
+### SELECTED WORK / 2026
+
+| PROJECT | WHAT I BUILT |
+|---|---|
+| Fleet Management | Operational dashboards & management systems |
+| Industrial Platform | Monitoring, billing & inventory |
+| School Ecosystem | Website & administration dashboard |
+| Textile Marketplace | Catalog management & ordering experience |
+
+<sub>Selected professional work · Built at Kriscent Tech Hub and Vysion Technology.</sub>
+
+---
+
+### THE JOURNEY
+
+`2021` UI/UX DESIGN → `2022` FRONTEND ENGINEERING → `2024` PRODUCT DEVELOPMENT
+
+**IIIT Surat** · B.Tech Computer Science & Engineering
+
+---
+
+### CURRENT TOOLKIT
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,js,tailwind,redux,firebase,mongodb,postgres,git,github" />
 </p>
 
-### `03` — Selected Work
-
-| Project | Description | Stack |
-|---|---|---|
-| Fleet Management | Scalable operational dashboards | Next.js · Firebase |
-| Industrial Monitoring | Industrial monitoring, billing & inventory | React |
-| School Management | Website and administration platform | Next.js |
-| Textile Marketplace | Product catalogs and order management | React |
-
-<sub>Professional projects developed as part of my work experience.</sub>
-
-### `04` — My Journey
-
-**UI/UX Designer → Frontend Developer → Product-focused Engineer**
-
-Safal Infotech (2021) → Vysion Technology (2021–2024) → Kriscent Techno Hub (2024–Present)
-
-B.Tech Computer Science · IIIT Surat (2017–2021)
-
-### `05` — GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=9ca3af&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
 ---
 
 <div align="center">
 
-**Good design gets attention. Good engineering earns trust.**
+### THE WORK SPEAKS.
 
-*Designed with intent. Built with purpose.*
+[EXPLORE MY REPOSITORIES](https://github.com/amit-kth?tab=repositories)
+
+[LET'S CONNECT](mailto:amverma1204t@gmail.com)
+
+<sub>AV(R) · DESIGN WITH INTENT. BUILD WITH PURPOSE.</sub>
 
 </div>
