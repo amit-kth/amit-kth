@@ -1,94 +1,81 @@
 <div align="center">
-  <img src="./assets/amit-banner.svg" alt="Amit Verma — Design meets code" width="100%" />
-</div><div align="center">
-  <a href="YOUR_PORTFOLIO_URL">PORTFOLIO ↗</a>
-  &nbsp;&nbsp; <a href="YOUR_LINKEDIN_URL">LINKEDIN ↗</a>
-  &nbsp;&nbsp; <a href="mailto:amverma1204t@gmail.com">EMAIL ↗</a>
-  &nbsp;&nbsp; <a href="https://github.com/amit-kth?tab=repositories">ALL WORK ↗</a>
+  <img src="./assets/banner.svg" alt="Amit Verma, Senior Frontend Developer. I design interfaces in Figma, then build them in React and Next.js." width="100%" />
 </div>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / DESIGN</sub>
-      <h2>Make it feel right.</h2>
-      I turn user needs into clear flows, visual systems and thoughtful interfaces.
-      <br/><br/>
-      <code>UI/UX</code> <code>Figma</code> <code>Prototyping</code>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / ENGINEERING</sub>
-      <h2>Make it work beautifully.</h2>
-      I build responsive, maintainable products with a focus on craft and performance.
-      <br/><br/>
-      <code>React</code> <code>Next.js</code> <code>TypeScript</code>
-    </td>
-  </tr>
-</table>
-Selected work
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amit-kth/amit">
-        <img src="https://raw.githubusercontent.com/amit-kth/amit/main/shot-work.png" width="100%" alt="Personal portfolio work section"/>
-      </a>
-      <sub><b>01 — PERSONAL PORTFOLIO</b></sub>
-      <br/>
-      My own design and development playground.
-      <br/><sub>Next.js · React · Motion</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amit-kth/mina-scheduler">
-        <img src="./assets/mina-scheduler.svg" width="100%" alt="Mina Scheduler project artwork"/>
-      </a>
-      <sub><b>02 — MINA SCHEDULER</b></sub>
-      <br/>
-      A customizable calendar interface with day, week and month views.
-      <br/><sub>React · Next.js · shadcn/ui</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amit-kth/namo-app-landing">
-        <img src="./assets/namo-landing.svg" width="100%" alt="Namo landing page project artwork"/>
-      </a>
-      <sub><b>03 — NAMO APP LANDING</b></sub>
-      <br/>
-      A responsive landing-page experience.
-      <br/><sub>Next.js · Tailwind CSS</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/amit-kth?tab=repositories">
-        <img src="./assets/product-work.svg" width="100%" alt="Professional product work artwork"/>
-      </a>
-      <sub><b>04 — PROFESSIONAL PRODUCT WORK</b></sub>
-      <br/>
-      Fleet, industrial, education and AI product interfaces built with teams.
-      <br/><sub>React · Next.js · REST APIs</sub>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://portfolio-itisamit.vercel.app/"><img src="./assets/btn-portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/amit-verma-2a46971b4/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://github.com/it-is-amit"><img src="./assets/btn-github.svg" alt="GitHub" /></a>
+  <a href="mailto:amverma1204t@gmail.com"><img src="./assets/btn-email.svg" alt="Email" /></a>
+  <a href="https://ik.imagekit.io/g947cuvcp/Amit_Verma_Frontend_Developer.pdf"><img src="./assets/btn-resume.svg" alt="Resume" /></a>
+</p>
+
 <div align="center">
-  <sub>THE PATH SO FAR</sub>
-  <br/><br/>
-  <b>UI/UX DESIGN</b> &nbsp; ↗ &nbsp; <b>FRONTEND DEVELOPMENT</b> &nbsp; ↗ &nbsp; <b>PRODUCT ENGINEERING</b>
-  <br/>
-  <sub>Safal Infotech → Vysion Technology → Kriscent Techno Hub</sub>
-  <br/><br/>
-  <sub>B.Tech, Computer Science & Engineering · IIIT Surat</sub>
+  <img src="./assets/stats.svg" alt="5+ years across UI/UX and frontend. 4+ years in production with React and Next.js. 50K+ users on the biggest products. 2 awards at Kriscent Techno Hub." width="100%" />
 </div>
+
+<br/>
+
 <div align="center">
-  <sub>THE TOOLKIT</sub>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,js,tailwind,redux,firebase,mongodb,postgres,git,github&perline=6" alt="Design and development toolkit"/>
+  <img src="./assets/h-work.svg" alt="Selected work" width="100%" />
 </div>
+
+<p align="center">
+  <a href="https://portfolio-itisamit.vercel.app/"><img src="https://ik.imagekit.io/g947cuvcp/portfolio/Screenshot%20(9).webp" width="49%" alt="Project screenshot 1" /></a>
+  <a href="https://portfolio-itisamit.vercel.app/"><img src="https://ik.imagekit.io/g947cuvcp/portfolio/Screenshot%20(12).webp" width="49%" alt="Project screenshot 2" /></a>
+  <a href="https://portfolio-itisamit.vercel.app/"><img src="https://ik.imagekit.io/g947cuvcp/portfolio/Screenshot%202026-10-29%20231452.webp" width="49%" alt="Project screenshot 3" /></a>
+  <a href="https://portfolio-itisamit.vercel.app/"><img src="https://ik.imagekit.io/g947cuvcp/portfolio/Screenshot%20(13).webp" width="49%" alt="Project screenshot 4" /></a>
+  <a href="https://portfolio-itisamit.vercel.app/"><img src="https://ik.imagekit.io/g947cuvcp/portfolio/Screenshot%20(8).webp" width="49%" alt="Project screenshot 5" /></a>
+  <a href="https://portfolio-itisamit.vercel.app/"><img src="https://ik.imagekit.io/g947cuvcp/portfolio/Screenshot%20(14).webp" width="49%" alt="Project screenshot 6" /></a>
+</p>
+
+<p align="center">
+  <sub>Fleet management, social media, e-commerce, AI astrology, industrial monitoring and education platforms, built with teams.</sub>
+</p>
+
+<br/>
+
 <div align="center">
-  <sub>GITHUB / CONTRIBUTION TRACE</sub>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-kth&bg_color=ffffff&color=242424&line=e95436&point=242424&area=true&hide_border=true&custom_title=" width="100%" alt="GitHub contribution activity"/>
+  <img src="./assets/h-open.svg" alt="Side projects" width="100%" />
 </div>
+
+<p align="center">
+  <a href="https://portfolio-itisamit.vercel.app/"><img src="./assets/card-portfolio.svg" width="32%" alt="Portfolio" /></a>
+  <a href="https://github.com/amit-kth/mina-scheduler"><img src="./assets/card-mina.svg" width="32%" alt="Mina Scheduler" /></a>
+  <a href="https://github.com/amit-kth/namo-app-landing"><img src="./assets/card-namo.svg" width="32%" alt="Namo App Landing" /></a>
+</p>
+
+<br/>
+
 <div align="center">
-  <h2>Good design earns attention.<br/>Good engineering earns trust.</h2>
-  <a href="mailto:amverma1204t@gmail.com">LET'S MAKE SOMETHING USEFUL ↗</a>
+  <img src="./assets/h-toolkit.svg" alt="Toolkit" width="100%" />
   <br/><br/>
-  <sub>DESIGNED WITH INTENT · BUILT WITH PURPOSE</sub>
+  <img src="./assets/toolkit.svg" alt="Toolkit: Figma and Adobe XD; React, Next.js, TypeScript, Tailwind; Redux Toolkit, TanStack Query; Firebase, MongoDB, PostgreSQL; Git, Vercel, Netlify." width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/h-journey.svg" alt="Designer first, developer now" width="100%" />
+  <br/><br/>
+  <img src="./assets/journey.svg" alt="Career timeline from UI/UX intern at Safal Infotech to frontend developer at Kriscent Techno Hub." width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/h-activity.svg" alt="Activity" width="100%" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=it-is-amit&bg_color=14151F&color=D9C4F5&line=B78CEF&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=it-is-amit&bg_color=FAF8F5&color=5B2A9E&line=7C3AED&point=14151F&area=true&area_color=B78CEF&hide_border=true" width="100%" alt="GitHub contribution activity" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:amverma1204t@gmail.com"><img src="./assets/cta.svg" alt="Good design earns attention. Good engineering earns trust. Let's build something useful." width="100%" /></a>
+  <br/><br/>
+  <sub>Designed in Figma. Built in React. Open to Senior Frontend roles in India and remote.</sub>
 </div>
