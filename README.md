@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Kota, India &nbsp;|&nbsp; Open to product teams, remote or on-site<br/>
+  Kota, India &nbsp;|&nbsp; Open to product teams, remote or on-sit <br/>
   <a href="https://portfolio-itisamit.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/amit-verma-2a46971b4/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:amverma1204t@gmail.com">Email</a> &nbsp;·&nbsp;
