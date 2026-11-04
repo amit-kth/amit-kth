@@ -1,113 +1,338 @@
-# Amit Verma
-### Frontend Developer · React.js · Next.js · TypeScript
+<!--
+  AMIT VERMA — GITHUB PROFILE README
+  Replace YOUR_GITHUB_USERNAME and YOUR_LINKEDIN_URL before publishing.
+-->
 
-Building interfaces that look good, work smoothly, and scale with real-world requirements.
+<div align="center">
 
-I'm a Frontend Developer with **5+ years of experience across UI/UX design and web development**, including 4+ years building production applications with React.js, Next.js and TypeScript.
+# AMIT VERMA
 
-I enjoy working at the intersection of design and engineering — turning ideas and Figma designs into responsive, accessible and maintainable web experiences.
+### FRONTEND DEVELOPER · UI/UX THINKER · PRODUCT BUILDER
 
----
+**I build interfaces where thoughtful design meets solid engineering.**
 
-### 01 / What I do
+React.js &nbsp; / &nbsp; Next.js &nbsp; / &nbsp; TypeScript &nbsp; / &nbsp; UI Engineering
 
-- **Frontend Engineering** — Building production-ready applications using React.js, Next.js and TypeScript.
-- **UI Engineering** — Creating reusable components, scalable layouts and consistent design systems.
-- **Performance & SEO** — Working with SSR, SSG, Core Web Vitals and search-friendly architecture.
-- **API Integration** — Connecting frontend applications with REST APIs, authentication and backend services.
-- **Product Design** — Bringing my UI/UX background into development to create better user experiences.
+<br/>
 
-### 02 / Tech Stack
+<a href="mailto:amverma1204t@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-FFFFFF?style=flat-square&logo=gmail&logoColor=black" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=flat-square&logo=linkedin&logoColor=black" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE-FFFFFF?style=flat-square&logo=github&logoColor=black" />
+</a>
 
-**Languages & Frameworks**
+<br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%" />
 
-**State Management & Data**
+</div>
 
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=fff)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=fff)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+## 01 / THE INTRODUCTION
 
-**Styling & UI**
+I'm Amit, a Frontend Developer with **5+ years of experience across UI/UX design and web development**, including 4+ years building production applications with React.js, Next.js and TypeScript.
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=fff)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=fff)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+My journey started with designing interfaces and gradually evolved into engineering complete frontend applications.
 
-**Tools & Design**
+Today, I work across the entire frontend development process — understanding product requirements, translating designs into reusable components, integrating APIs and optimizing applications for real-world usage.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
+I believe a good interface isn't just about how it looks. It's about how intelligently it works.
 
----
+<br/>
 
-### 03 / Selected Work
+## 02 / TERMINAL
 
-A few areas I've worked on professionally:
+A little introduction, the developer way.
 
-| Project | What I worked on | Technologies |
-|---|---|---|
-| Fleet Management | Scalable management dashboards | Next.js, React, Firebase |
-| Industrial Monitoring | Wastewater monitoring platform, billing and inventory modules | React.js |
-| School Management | School website and administration dashboard | Next.js |
-| Social Platform | Core modules and reusable frontend architecture | React, Next.js |
-| AI Astrology Platform | Frontend development and UI/UX improvements | Next.js, Tailwind CSS |
-| Textile Marketplace | Product catalogs, WhatsApp sharing and order management | React.js |
+```bash
+$ whoami
 
-*Some of this work was developed professionally and may not be publicly available.*
+Amit Verma
+Frontend Developer | UI/UX Enthusiast
+Based in Kota, Rajasthan, India
 
----
+$ experience
 
-### 04 / A little about my journey
+5+ years in UI/UX and Web Development
+4+ years building production React applications
 
-- **2024 – Present:** Frontend Developer at Kriscent Techno Hub.
-- **2022 – 2024:** Frontend Developer at Vysion Technology.
-- **2021 – 2022:** UI/UX Designer at Vysion Technology.
-- **2021:** UI/UX Design Intern at Safal Infotech.
-- **2017 – 2021:** B.Tech in Computer Science & Engineering, IIIT Surat.
+$ primary_stack
 
-Recognition: Employee of the Month and Most Evergreen Person of the Year.
+React.js
+Next.js
+TypeScript
+JavaScript
 
----
+$ currently_interested_in
 
-### 05 / Beyond the code
+Scalable Frontend Architecture
+Design Systems
+Performance Optimization
+Product Engineering
+AI-powered Applications
 
-I started with UI/UX design, which shaped how I approach frontend development today.
+$ philosophy
 
-I care about:
+Understand the problem.
+Design the experience.
+Engineer the solution.
+Keep improving.
 
-- Thoughtful user experiences over unnecessary complexity.
-- Clean, reusable and maintainable code.
-- Performance just as much as visual quality.
-- Learning new technologies and exploring better ways to build products.
+$ status
 
-I believe great frontend development is not just about writing components. It's about understanding the product, the people using it, and the experience connecting them.
+Always learning. Always building.
+```
 
----
+<br/>
 
-### 06 / Let's connect
+## 03 / THE TOOLKIT
 
-Interested in frontend engineering, product development, UI/UX or exchanging ideas?
+Technologies I use to design, develop and ship digital products.
 
-**Email:** [amverma1204t@gmail.com](mailto:amverma1204t@gmail.com)
+**CORE ENGINEERING**
 
-**LinkedIn:** [Connect with me](YOUR-LINKEDIN-URL)
-
----
-
-<p align="center">
-  <i>Design with intent. Develop with purpose. Keep improving.</i>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
 </p>
+
+**STATE MANAGEMENT & DATA**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux,firebase,mongodb,postgres" />
+</p>
+
+TanStack Query · React Hook Form · Axios · REST APIs
+
+**UI ENGINEERING**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,figma" />
+</p>
+
+Shadcn UI · Framer Motion · Responsive Design · Component Architecture
+
+**TOOLS & DEPLOYMENT**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,xd" />
+</p>
+
+<br/>
+
+## 04 / SELECTED WORK
+
+A glimpse into the kind of products and systems I've worked on.
+
+These are selected professional projects, not necessarily public repositories.
+
+### 01 — Fleet Management Platform
+
+**Scalable dashboards for fleet operations.**
+
+- Built frontend dashboards and management modules.
+- Integrated authentication using Firebase Auth.
+- Implemented data fetching and server-state management.
+
+`Next.js` `React.js` `TanStack Query` `Firebase`
+
+---
+
+### 02 — Industrial Monitoring Platform
+
+**A real-world platform for industrial wastewater monitoring.**
+
+- Developed the frontend of the OCEMS platform.
+- Implemented billing generation and inventory management.
+- Built industry management modules used by factories.
+
+`React.js` `JavaScript` `REST APIs`
+
+---
+
+### 03 — School Management Ecosystem
+
+**A digital platform for school information and administration.**
+
+- Developed a public-facing school website.
+- Built an administration dashboard.
+- Implemented modules for examinations, results, achievements and admissions.
+- Focused on SEO and user experience.
+
+`Next.js` `React.js` `SEO`
+
+---
+
+### 04 — Social Media Platform
+
+**Building maintainable frontend modules for a social product.**
+
+- Developed core application modules.
+- Created reusable components.
+- Focused on scalable and maintainable architecture.
+
+`Next.js` `React.js` `TypeScript`
+
+---
+
+### 05 — AI Astrology Platform
+
+**Frontend development for an AI-powered astrology product.**
+
+- Improved the user experience for astrologers.
+- Developed responsive frontend interfaces.
+- Worked on UI consistency and usability.
+
+`Next.js` `Tailwind CSS`
+
+---
+
+### 06 — Textile Marketplace
+
+**A marketplace built around the textile industry's catalog and ordering workflow.**
+
+- Built a web application for textile shops.
+- Enabled shops to create, manage and share design catalogs through WhatsApp.
+- Developed order management functionality.
+- Successfully piloted with 15–20 customers.
+
+`React.js` `JavaScript`
+
+<br/>
+
+## 05 / THE JOURNEY
+
+From designing interfaces to engineering complete products.
+
+```text
+2021 ──────────────────────────────────────────────
+
+UI/UX DESIGN INTERN
+Safal Infotech Pvt. Ltd.
+Jan 2021 – May 2021
+
+Worked on wireframes, user flows and prototypes
+for a stock market mobile application.
+
+       ↓
+
+UI/UX DESIGNER
+Vysion Technology
+June 2021 – April 2022
+
+Designed interfaces and prototypes for EdTech
+and IoT products using Figma and Adobe XD.
+
+       ↓
+
+2022 ──────────────────────────────────────────────
+
+FRONTEND DEVELOPER
+Vysion Technology
+May 2022 – May 2024
+
+Transitioned into frontend engineering.
+Built industrial platforms, school management
+systems, dashboards and web applications.
+
+       ↓
+
+2024 ──────────────────────────────────────────────
+
+FRONTEND DEVELOPER
+Kriscent Techno Hub
+July 2024 – Present
+
+Working on scalable Next.js applications,
+production dashboards, AI-powered products
+and high-performance web experiences.
+
+       ↓
+
+2026 ──────────────────────────────────────────────
+
+STILL BUILDING.
+STILL LEARNING.
+STILL IMPROVING.
+```
+
+**A milestone along the way:** Employee of the Month and Most Evergreen Person of the Year at Kriscent Techno Hub.
+
+<br/>
+
+## 06 / GITHUB ACTIVITY
+
+A look at my open-source journey and coding activity.
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 07 / BEYOND THE CODE
+
+My background in UI/UX design has shaped the way I approach development.
+
+A few things I genuinely care about:
+
+- **Design with intent:** Every element should have a reason to exist.
+- **Engineering with clarity:** Clean, reusable and maintainable code matters.
+- **Performance matters:** A beautiful interface means little if it feels slow.
+- **Think like a user:** Understand the experience before implementing the solution.
+- **Keep exploring:** Technology changes, and there's always something new to learn.
+
+I enjoy exploring the space between design, frontend engineering and product thinking.
+
+<br/>
+
+## 08 / EDUCATION
+
+**Bachelor of Technology — Computer Science & Engineering**
+
+Indian Institute of Information Technology, Surat (IIIT Surat)
+
+2017 – 2021
+
+<br/>
+
+---
+
+<div align="center">
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+I'm always interested in connecting with people who enjoy building thoughtful digital products.
+
+<br/>
+
+<a href="mailto:amverma1204t@gmail.com">
+  **amverma1204t@gmail.com**
+</a>
+
+<br/><br/>
+
+<sub>DESIGNED WITH THOUGHT. BUILT WITH PURPOSE.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+
+</div>
