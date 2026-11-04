@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="496" viewBox="0 0 1280 496" role="img" aria-label="Skill cards: Build with React, Next.js, TypeScript. Style with Tailwind, Material UI, Shadcn, Framer Motion. Data with TanStack Query, Redux Toolkit, React Hook Form. Backend with Firebase, MongoDB, PostgreSQL. Design with Figma and Adobe XD. Ship with Git, Vercel, Netlify.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FAF7FE"/><stop offset="1" stop-color="#EFE5FB"/></linearGradient></defs>
+<style>text{font-family:Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif} .m{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', monospace}</style>
+<rect x="0.5" y="0.5" width="399" height="235" rx="6" fill="url(#g)" stroke="#D5C3EE"/>
+<rect x="1" y="1" width="398" height="4" rx="2" fill="#5B2A9E"/>
+<rect x="28" y="30" width="40" height="40" rx="6" fill="#5B2A9E"/>
+<text class="m" x="48" y="56" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">&lt;/&gt;</text>
+<text x="84" y="59" font-size="28" font-weight="700" letter-spacing="-.5" fill="#14151F">Build</text>
+<text x="28" y="104" font-size="17" fill="#4A4560">Production apps with SSR, SSG and CSR,</text>
+<text x="28" y="128" font-size="17" fill="#4A4560">picked per project.</text>
+<rect x="28.5" y="150.5" width="94" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="75.3" y="171" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">React.js</text>
+<rect x="130.1" y="150.5" width="85" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="172.6" y="171" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Next.js</text>
+<rect x="223.0" y="150.5" width="111" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="278.5" y="171" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">TypeScript</text>
+<rect x="28.5" y="192.5" width="111" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="84.0" y="213" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">JavaScript</text>
+<rect x="440.5" y="0.5" width="399" height="235" rx="6" fill="url(#g)" stroke="#D5C3EE"/>
+<rect x="441" y="1" width="398" height="4" rx="2" fill="#7C3AED"/>
+<rect x="468" y="30" width="40" height="40" rx="6" fill="#7C3AED"/>
+<text class="m" x="488" y="56" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Aa</text>
+<text x="524" y="59" font-size="28" font-weight="700" letter-spacing="-.5" fill="#14151F">Style</text>
+<text x="468" y="104" font-size="17" fill="#4A4560">Figma designs turned into reusable</text>
+<text x="468" y="128" font-size="17" fill="#4A4560">component libraries.</text>
+<rect x="468.5" y="150.5" width="128" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="532.7" y="171" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Tailwind CSS</text>
+<rect x="604.9" y="150.5" width="120" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="664.8" y="171" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Material UI</text>
+<rect x="468.5" y="192.5" width="102" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="519.6" y="213" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Shadcn UI</text>
+<rect x="578.8" y="192.5" width="137" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="647.3" y="213" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Framer Motion</text>
+<rect x="880.5" y="0.5" width="399" height="235" rx="6" fill="url(#g)" stroke="#D5C3EE"/>
+<rect x="881" y="1" width="398" height="4" rx="2" fill="#5B2A9E"/>
+<rect x="908" y="30" width="40" height="40" rx="6" fill="#5B2A9E"/>
+<text class="m" x="928" y="56" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">{ }</text>
+<text x="964" y="59" font-size="28" font-weight="700" letter-spacing="-.5" fill="#14151F">Data</text>
+<text x="908" y="104" font-size="17" fill="#4A4560">REST integration and client state,</text>
+<text x="908" y="128" font-size="17" fill="#4A4560">built with backend teams.</text>
+<rect x="908.5" y="150.5" width="146" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="981.4" y="171" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">TanStack Query</text>
+<rect x="1062.3" y="150.5" width="137" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="1130.8" y="171" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Redux Toolkit</text>
+<rect x="908.5" y="192.5" width="154" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="985.8" y="213" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">React Hook Form</text>
+<rect x="1071.0" y="192.5" width="68" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="1104.8" y="213" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Axios</text>
+<rect x="0.5" y="260.5" width="399" height="235" rx="6" fill="url(#g)" stroke="#D5C3EE"/>
+<rect x="1" y="261" width="398" height="4" rx="2" fill="#7C3AED"/>
+<rect x="28" y="290" width="40" height="40" rx="6" fill="#7C3AED"/>
+<text class="m" x="48" y="316" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">DB</text>
+<text x="84" y="319" font-size="28" font-weight="700" letter-spacing="-.5" fill="#14151F">Backend</text>
+<text x="28" y="364" font-size="17" fill="#4A4560">Auth and data layers behind the</text>
+<text x="28" y="388" font-size="17" fill="#4A4560">dashboards I build.</text>
+<rect x="28.5" y="410.5" width="94" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="75.3" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Firebase</text>
+<rect x="130.1" y="410.5" width="85" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="172.6" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">MongoDB</text>
+<rect x="223.0" y="410.5" width="111" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="278.5" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">PostgreSQL</text>
+<rect x="440.5" y="260.5" width="399" height="235" rx="6" fill="url(#g)" stroke="#D5C3EE"/>
+<rect x="441" y="261" width="398" height="4" rx="2" fill="#D9A93F"/>
+<rect x="468" y="290" width="40" height="40" rx="6" fill="#D9A93F"/>
+<path d="M488 298 L498 312 L488 322 L478 312 Z" fill="none" stroke="#2E1A05" stroke-width="2.4" stroke-linejoin="round"/><circle cx="488" cy="310" r="2.6" fill="#2E1A05"/>
+<text x="524" y="319" font-size="28" font-weight="700" letter-spacing="-.5" fill="#14151F">Design</text>
+<text x="468" y="364" font-size="17" fill="#4A4560">Wireframes, flows and prototypes</text>
+<text x="468" y="388" font-size="17" fill="#4A4560">before a line of code.</text>
+<rect x="468.5" y="410.5" width="68" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="502.2" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Figma</text>
+<rect x="544.0" y="410.5" width="94" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="590.8" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Adobe XD</text>
+<rect x="645.6" y="410.5" width="120" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="705.5" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Prototyping</text>
+<rect x="880.5" y="260.5" width="399" height="235" rx="6" fill="url(#g)" stroke="#D5C3EE"/>
+<rect x="881" y="261" width="398" height="4" rx="2" fill="#5B2A9E"/>
+<rect x="908" y="290" width="40" height="40" rx="6" fill="#5B2A9E"/>
+<path d="M928 298 L940 320 L916 320 Z" fill="#fff"/>
+<text x="964" y="319" font-size="28" font-weight="700" letter-spacing="-.5" fill="#14151F">Ship</text>
+<text x="908" y="364" font-size="17" fill="#4A4560">Deploys with SEO and performance</text>
+<text x="908" y="388" font-size="17" fill="#4A4560">treated as features.</text>
+<rect x="908.5" y="410.5" width="50" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="933.5" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Git</text>
+<rect x="966.6" y="410.5" width="76" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="1004.7" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Vercel</text>
+<rect x="1050.8" y="410.5" width="85" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="1093.2" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Netlify</text>
+<rect x="1143.7" y="410.5" width="85" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="1186.2" y="431" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">Postman</text>
+<rect x="908.5" y="452.5" width="50" height="32" rx="4" fill="#fff" fill-opacity=".75" stroke="#C9B3EA"/><text x="933.5" y="473" text-anchor="middle" font-size="15" font-weight="600" fill="#5B2A9E">SEO</text>
+</svg>

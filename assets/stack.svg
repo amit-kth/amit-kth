@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="428" viewBox="0 0 1280 428" role="img" aria-label="Estimated mix of my work: Next.js and React 38 percent, TypeScript 20, Styling and UI 18, Data and state 12, Design 8, Backend and tooling 4.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8F4FD"/><stop offset="1" stop-color="#EBDFFB"/></linearGradient></defs>
+<style>text{font-family:Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif} @keyframes a0{from{stroke-dasharray:0 741.4}to{stroke-dasharray:278.7 462.7}} .a0{animation:a0 .9s ease-out 0.00s both} @keyframes a1{from{stroke-dasharray:0 741.4}to{stroke-dasharray:145.3 596.1}} .a1{animation:a1 .9s ease-out 0.35s both} @keyframes a2{from{stroke-dasharray:0 741.4}to{stroke-dasharray:130.5 611.0}} .a2{animation:a2 .9s ease-out 0.70s both} @keyframes a3{from{stroke-dasharray:0 741.4}to{stroke-dasharray:86.0 655.4}} .a3{animation:a3 .9s ease-out 1.05s both} @keyframes a4{from{stroke-dasharray:0 741.4}to{stroke-dasharray:56.3 685.1}} .a4{animation:a4 .9s ease-out 1.40s both} @keyframes a5{from{stroke-dasharray:0 741.4}to{stroke-dasharray:26.7 714.8}} .a5{animation:a5 .9s ease-out 1.75s both} @media (prefers-reduced-motion:reduce){.a0{animation:none} .a1{animation:none} .a2{animation:none} .a3{animation:none} .a4{animation:none} .a5{animation:none}}</style>
+<rect x=".5" y=".5" width="1279" height="427" rx="8" fill="url(#g)" stroke="#CDBBE6"/>
+<text x="40" y="56" font-size="26" font-weight="700" fill="#14151F">Where my work goes</text>
+<circle cx="300" cy="214" r="118" fill="none" stroke="#E4D7F6" stroke-width="46" opacity=".6"/>
+<circle class="a0" cx="300" cy="214" r="118" fill="none" stroke="#5B2A9E" stroke-width="46" stroke-dasharray="278.7 462.7" stroke-dashoffset="0.0" transform="rotate(-90 300 214)"/>
+<circle class="a1" cx="300" cy="214" r="118" fill="none" stroke="#7C3AED" stroke-width="46" stroke-dasharray="145.3 596.1" stroke-dashoffset="-281.7" transform="rotate(-90 300 214)"/>
+<circle class="a2" cx="300" cy="214" r="118" fill="none" stroke="#A774E8" stroke-width="46" stroke-dasharray="130.5 611.0" stroke-dashoffset="-430.0" transform="rotate(-90 300 214)"/>
+<circle class="a3" cx="300" cy="214" r="118" fill="none" stroke="#C9A7F5" stroke-width="46" stroke-dasharray="86.0 655.4" stroke-dashoffset="-563.5" transform="rotate(-90 300 214)"/>
+<circle class="a4" cx="300" cy="214" r="118" fill="none" stroke="#E4B84F" stroke-width="46" stroke-dasharray="56.3 685.1" stroke-dashoffset="-652.4" transform="rotate(-90 300 214)"/>
+<circle class="a5" cx="300" cy="214" r="118" fill="none" stroke="#8B849E" stroke-width="46" stroke-dasharray="26.7 714.8" stroke-dashoffset="-711.8" transform="rotate(-90 300 214)"/>
+<text x="300" y="210" text-anchor="middle" font-size="26" font-weight="700" letter-spacing="-.5" fill="#5B2A9E">Design-led</text>
+<text x="300" y="238" text-anchor="middle" font-size="19" fill="#5A5470">frontend work</text>
+<text x="40" y="400" font-size="16" fill="#5A5470">Estimated mix across my production work, not a measured figure.</text>
+<rect x="620" y="104" width="16" height="16" rx="3" fill="#5B2A9E"/>
+<text x="652" y="119" font-size="22" fill="#14151F">Next.js and React</text>
+<rect x="920" y="107" width="240" height="10" rx="2" fill="#E4D7F6"/><rect x="920" y="107" width="240" height="10" rx="2" fill="#5B2A9E"/>
+<text x="1232" y="120" text-anchor="end" font-size="22" font-weight="700" fill="#5B2A9E">38%</text>
+<rect x="620" y="154" width="16" height="16" rx="3" fill="#7C3AED"/>
+<text x="652" y="169" font-size="22" fill="#14151F">TypeScript</text>
+<rect x="920" y="157" width="240" height="10" rx="2" fill="#E4D7F6"/><rect x="920" y="157" width="126" height="10" rx="2" fill="#7C3AED"/>
+<text x="1232" y="170" text-anchor="end" font-size="22" font-weight="700" fill="#5B2A9E">20%</text>
+<rect x="620" y="204" width="16" height="16" rx="3" fill="#A774E8"/>
+<text x="652" y="219" font-size="22" fill="#14151F">Styling and UI</text>
+<rect x="920" y="207" width="240" height="10" rx="2" fill="#E4D7F6"/><rect x="920" y="207" width="114" height="10" rx="2" fill="#A774E8"/>
+<text x="1232" y="220" text-anchor="end" font-size="22" font-weight="700" fill="#5B2A9E">18%</text>
+<rect x="620" y="254" width="16" height="16" rx="3" fill="#C9A7F5"/>
+<text x="652" y="269" font-size="22" fill="#14151F">Data and state</text>
+<rect x="920" y="257" width="240" height="10" rx="2" fill="#E4D7F6"/><rect x="920" y="257" width="76" height="10" rx="2" fill="#C9A7F5"/>
+<text x="1232" y="270" text-anchor="end" font-size="22" font-weight="700" fill="#5B2A9E">12%</text>
+<rect x="620" y="304" width="16" height="16" rx="3" fill="#E4B84F"/>
+<text x="652" y="319" font-size="22" fill="#14151F">Design</text>
+<rect x="920" y="307" width="240" height="10" rx="2" fill="#E4D7F6"/><rect x="920" y="307" width="51" height="10" rx="2" fill="#E4B84F"/>
+<text x="1232" y="320" text-anchor="end" font-size="22" font-weight="700" fill="#5B2A9E">8%</text>
+<rect x="620" y="354" width="16" height="16" rx="3" fill="#8B849E"/>
+<text x="652" y="369" font-size="22" fill="#14151F">Backend and tooling</text>
+<rect x="920" y="357" width="240" height="10" rx="2" fill="#E4D7F6"/><rect x="920" y="357" width="25" height="10" rx="2" fill="#8B849E"/>
+<text x="1232" y="370" text-anchor="end" font-size="22" font-weight="700" fill="#5B2A9E">4%</text>
+</svg>

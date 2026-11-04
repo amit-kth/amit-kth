@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Career path: UI/UX design intern at Safal Infotech, UI/UX designer at Vysion Technology, frontend developer at Vysion Technology, frontend developer at Kriscent Techno Hub.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8F4FD"/><stop offset="1" stop-color="#EBDFFB"/></linearGradient><linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="100" y1="0" x2="1180" y2="0"><stop offset="0" stop-color="#E4B84F"/><stop offset=".42" stop-color="#C9A7F5"/><stop offset=".6" stop-color="#7C3AED"/><stop offset="1" stop-color="#5B2A9E"/></linearGradient></defs>
+<style>text{font-family:Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif} .ring{animation:p 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center} @keyframes p{0%{transform:scale(1);opacity:.55}100%{transform:scale(2.4);opacity:0}} @media (prefers-reduced-motion:reduce){.ring{animation:none;opacity:0}}</style>
+<rect x=".5" y=".5" width="1279" height="399" rx="8" fill="url(#g)" stroke="#CDBBE6"/>
+<line x1="100" y1="130" x2="1180" y2="130" stroke="url(#ln)" stroke-width="5" stroke-linecap="round"/>
+<circle cx="160" cy="130" r="14" fill="#fff" stroke="#E4B84F" stroke-width="6"/>
+<text x="160" y="82" text-anchor="middle" font-size="20" fill="#5A5470">Jan - May 2021</text>
+<text x="160" y="190" text-anchor="middle" font-size="25" font-weight="700" letter-spacing="-.5" fill="#14151F">UI/UX Design Intern</text>
+<text x="160" y="221" text-anchor="middle" font-size="21" font-weight="600" fill="#5B2A9E">Safal Infotech</text>
+<text x="160" y="252" text-anchor="middle" font-size="18" fill="#5A5470">Market Time stock app</text>
+<circle cx="480" cy="130" r="14" fill="#fff" stroke="#C9A7F5" stroke-width="6"/>
+<text x="480" y="82" text-anchor="middle" font-size="20" fill="#5A5470">Jun 2021 - Apr 2022</text>
+<text x="480" y="190" text-anchor="middle" font-size="25" font-weight="700" letter-spacing="-.5" fill="#14151F">UI/UX Designer</text>
+<text x="480" y="221" text-anchor="middle" font-size="21" font-weight="600" fill="#5B2A9E">Vysion Technology</text>
+<text x="480" y="252" text-anchor="middle" font-size="18" fill="#5A5470">Gurucamp, Dhruvaan, Decon IoT</text>
+<circle cx="800" cy="130" r="14" fill="#fff" stroke="#7C3AED" stroke-width="6"/>
+<text x="800" y="82" text-anchor="middle" font-size="20" fill="#5A5470">May 2022 - May 2024</text>
+<text x="800" y="190" text-anchor="middle" font-size="25" font-weight="700" letter-spacing="-.5" fill="#14151F">Frontend Developer</text>
+<text x="800" y="221" text-anchor="middle" font-size="21" font-weight="600" fill="#5B2A9E">Vysion Technology</text>
+<text x="800" y="252" text-anchor="middle" font-size="18" fill="#5A5470">OCEMS, Vidhya Bharti, AttachClub</text>
+<circle class="ring" cx="1120" cy="130" r="14" fill="#5B2A9E"/>
+<circle cx="1120" cy="130" r="14" fill="#fff" stroke="#5B2A9E" stroke-width="6"/>
+<text x="1120" y="82" text-anchor="middle" font-size="20" fill="#5A5470">Jul 2024 - Present</text>
+<text x="1120" y="190" text-anchor="middle" font-size="25" font-weight="700" letter-spacing="-.5" fill="#14151F">Frontend Developer</text>
+<text x="1120" y="221" text-anchor="middle" font-size="21" font-weight="600" fill="#5B2A9E">Kriscent Techno Hub</text>
+<text x="1120" y="252" text-anchor="middle" font-size="18" fill="#5A5470">Fleet, social, commerce, AI</text>
+<path d="M160 288 V302 H480 V288" fill="none" stroke="#B8861C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320" y="336" text-anchor="middle" font-size="21" font-weight="700" fill="#B8861C">Design years</text>
+<path d="M800 288 V302 H1120 V288" fill="none" stroke="#5B2A9E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="960" y="336" text-anchor="middle" font-size="21" font-weight="700" fill="#5B2A9E">Code years</text>
+<text x="640" y="376" text-anchor="middle" font-size="18" fill="#5A5470">B.Tech in Computer Science and Engineering, IIIT Surat, 2017 - 2021</text>
+</svg>

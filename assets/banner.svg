@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="Amit Verma, Senior Frontend Developer. UI/UX designer turned frontend engineer working in React, Next.js and TypeScript.">
-<title>Amit Verma, Senior Frontend Developer</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="Amit Verma, Design-led frontend engineer working in React, Next.js and TypeScript.">
+<title>Amit Verma, design-led frontend engineer</title>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F6F1FC"/><stop offset="1" stop-color="#E4D7F6"/></linearGradient>
   <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
@@ -29,10 +29,10 @@
   <rect x=".5" y=".5" width="1279" height="439" rx="11.5" fill="none" stroke="#CDBBE6"/>
 
   <text x="64" y="96" font-size="22" font-weight="600" fill="#5B2A9E">Amit Verma</text>
-  <text x="64" y="206" font-size="68" font-weight="700" letter-spacing="-2.5" fill="#14151F">Senior Frontend</text>
-  <text x="64" y="278" font-size="68" font-weight="700" letter-spacing="-2.5" fill="#14151F">Developer</text>
-  <text x="64" y="330" font-size="22" fill="#4A4560">UI/UX designer turned frontend engineer.</text>
-  <text x="64" y="360" font-size="21" fill="#4A4560">Building React and Next.js products for 5K to 50K+ users.</text>
+  <text x="64" y="206" font-size="62" font-weight="700" letter-spacing="-2.5" fill="#14151F">Design-led</text>
+  <text x="64" y="278" font-size="62" font-weight="700" letter-spacing="-2.5" fill="#14151F">frontend engineer</text>
+  <text x="64" y="330" font-size="22" fill="#4A4560">I turn design decisions into fast,</text>
+  <text x="64" y="360" font-size="21" fill="#4A4560">maintainable interfaces in React and Next.js.</text>
   <g font-size="17" font-weight="600" fill="#5B2A9E" text-anchor="middle">
     <rect x="64.5" y="386.5" width="88" height="34" rx="4" fill="#fff" fill-opacity=".6" stroke="#B9A2E0"/><text x="108" y="409">React</text>
     <rect x="162.5" y="386.5" width="98" height="34" rx="4" fill="#fff" fill-opacity=".6" stroke="#B9A2E0"/><text x="211" y="409">Next.js</text>
