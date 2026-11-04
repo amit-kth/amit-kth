@@ -1,20 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200" role="img" aria-label="5+ years across UI/UX and frontend. 4+ years in production with React and Next.js. 50K+ users on the biggest products. 2 awards at Kriscent Techno Hub.">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F3ECFC"/><stop offset="1" stop-color="#DDCDF3"/></linearGradient></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-label="5+ years in UI/UX and frontend. 4+ years shipping React, Next.js and TypeScript. 5K to 50K+ users across the products built. 6 to 8 person frontend team, led several projects.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8F4FD"/><stop offset="1" stop-color="#EBDFFB"/></linearGradient></defs>
 <style>text{font-family:Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif}</style>
-<rect width="1280" height="200" rx="44" fill="url(#g)"/>
-<text x="160" y="104" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="-2" fill="#5B2A9E">5+</text>
-<text x="160" y="140" text-anchor="middle" font-size="20" fill="#14151F">years across UI/UX</text>
-<text x="160" y="166" text-anchor="middle" font-size="20" fill="#14151F">and frontend</text>
-<text x="480" y="104" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="-2" fill="#5B2A9E">4+</text>
-<text x="480" y="140" text-anchor="middle" font-size="20" fill="#14151F">years in production</text>
-<text x="480" y="166" text-anchor="middle" font-size="20" fill="#14151F">with React and Next.js</text>
-<line x1="320" y1="46" x2="320" y2="154" stroke="#C4AEE8" stroke-width="2"/>
-<text x="800" y="104" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="-2" fill="#5B2A9E">50K+</text>
-<text x="800" y="140" text-anchor="middle" font-size="20" fill="#14151F">users on the biggest</text>
-<text x="800" y="166" text-anchor="middle" font-size="20" fill="#14151F">products I've built</text>
-<line x1="640" y1="46" x2="640" y2="154" stroke="#C4AEE8" stroke-width="2"/>
-<text x="1120" y="104" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="-2" fill="#5B2A9E">2</text>
-<text x="1120" y="140" text-anchor="middle" font-size="20" fill="#14151F">awards at Kriscent</text>
-<text x="1120" y="166" text-anchor="middle" font-size="20" fill="#14151F">Techno Hub</text>
-<line x1="960" y1="46" x2="960" y2="154" stroke="#C4AEE8" stroke-width="2"/>
+<rect x=".5" y=".5" width="1279" height="149" rx="8" fill="url(#g)" stroke="#CDBBE6"/>
+<text x="40" y="72" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#5B2A9E">5+</text>
+<text x="40" y="102" font-size="18" fill="#3F3A55">years in UI/UX and frontend</text>
+<text x="360" y="72" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#5B2A9E">4+</text>
+<text x="360" y="102" font-size="18" fill="#3F3A55">years shipping React,</text>
+<text x="360" y="126" font-size="18" fill="#3F3A55">Next.js and TypeScript</text>
+<line x1="320" y1="28" x2="320" y2="122" stroke="#CDBBE6"/>
+<text x="680" y="72" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#5B2A9E">5K to 50K+</text>
+<text x="680" y="102" font-size="18" fill="#3F3A55">users across the products I</text>
+<text x="680" y="126" font-size="18" fill="#3F3A55">have built</text>
+<line x1="640" y1="28" x2="640" y2="122" stroke="#CDBBE6"/>
+<text x="1000" y="72" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#5B2A9E">6 to 8</text>
+<text x="1000" y="102" font-size="18" fill="#3F3A55">person frontend team, led</text>
+<text x="1000" y="126" font-size="18" fill="#3F3A55">several projects</text>
+<line x1="960" y1="28" x2="960" y2="122" stroke="#CDBBE6"/>
 </svg>
